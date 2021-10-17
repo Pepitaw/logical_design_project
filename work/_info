@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a
+voperation
+Z0 !s110 1593934258
+!i10b 1
+!s100 mda[b_k2g;m_nUSQfROdA0
+IKTRgnXfVWS`a3YeBL>GBz2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Modeltech_pe_edu_10.4a/final_project
+w1593934172
+8C:/Modeltech_pe_edu_10.4a/final_project/fight.v
+FC:/Modeltech_pe_edu_10.4a/final_project/fight.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1593934258.000000
+!s107 C:/Modeltech_pe_edu_10.4a/final_project/fight.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/final_project/fight.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtestbench
+R0
+!i10b 1
+!s100 g=m[0YeG9:MMUno6DLa6i1
+ImA@ziC^3>W7@d<a_`EBcn3
+R1
+R2
+w1593932969
+8C:/Modeltech_pe_edu_10.4a/final_project/fight_tb.v
+FC:/Modeltech_pe_edu_10.4a/final_project/fight_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Modeltech_pe_edu_10.4a/final_project/fight_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/final_project/fight_tb.v|
+!s101 -O0
+!i113 1
+R5
